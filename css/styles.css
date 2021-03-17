@@ -1,5 +1,8 @@
 .right {
   float: right;
+  border: 10px solid darkred;
+  background-color: rgba(128, 161, 184, 0.493);
+  padding: 10px;
 }
 
 .column {
@@ -9,5 +12,6 @@
 
 img {
   float: left;
-  width: 400px;
+  width: 200px;
+  padding: 10px;
 }
